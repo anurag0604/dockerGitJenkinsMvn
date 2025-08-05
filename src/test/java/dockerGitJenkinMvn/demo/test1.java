@@ -13,7 +13,7 @@ public class test1 {
 	public void test11() throws MalformedURLException {
 		
 		
-		DesiredCapabilities dc =  DesiredCapabilities.chrome();
+		DesiredCapabilities dc =  DesiredCapabilities.edge();
 		
 		URL url =new URL("http://localhost:4444/wd/hub");
 		
